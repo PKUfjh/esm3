@@ -1,5 +1,17 @@
 # ESM
 
+## Installation
+```bash
+conda create -n esm3 python=3.10
+conda activate esm3
+pip install esm -i https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+```
+
+## Run ESM3
+```bash
+python run_esm3.py
+```
+
 [![Design a GFP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evolutionaryscale/esm/blob/main/cookbook/tutorials/4_forge_generate.ipynb)
 
 - [Installation ](#installation-)
