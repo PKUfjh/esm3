@@ -9,7 +9,10 @@ pip install esm -i https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
 
 ## Run ESM3
 ```bash
+# simple example
 python run_esm3.py
+# GFP design
+python run_gfp_design.py
 ```
 
 [![Design a GFP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evolutionaryscale/esm/blob/main/cookbook/tutorials/4_forge_generate.ipynb)
